@@ -4,103 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2378d79c-2391-4ed7-a8d5-d0360dcdd35e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/demo3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/demoRep.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/iu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/img/iu_rep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Fortest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/Fluter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/Fullter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/GenericInteface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/demo/Employee$EmployeeEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/demo/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/demo/PM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/demo/Programmer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Generic/demo/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/Whiletest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/abstracts/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/abstracts/Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/carrental/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/carrental/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/carrental/MotorVehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/carrental/Operating.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/carrental/Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/conllection/Cycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/conllection/ListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/conllection/TreeSets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/file/ArrayStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/file/BufferReaderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/file/FileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/file/RandomAccessFileDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/file/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/inner/Demo$Inner1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/inner/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/inner/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/HpComputer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/OldPhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/demo2/InkCartridge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/demo2/InkMerchant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/demo2/Paper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/demo2/PaperCartridge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/intefacedemo/demo2/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/map/HashMaps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/patterns/factory/PartyA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/patterns/factory/PartyB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/patterns/factory/PartyC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/patterns/factory/PartyD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/patterns/factory/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/peculiarity/Biology.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/peculiarity/Economic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/peculiarity/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/peculiarity/Literature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/peculiarity/Military.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/reflection/ClassDome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/PicClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/PicServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/Servers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/object/LoginClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/object/LoginThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/object/LoginThreadServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/object/ObjectClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/object/ObjectServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/socket/object/Objects.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/RunnableDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/ThreadDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/ConsumerQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/God.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/ProducerQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/QueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/delay/DelayTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/delay/DelayTaskTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/priority/PriorityTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/priority/PriorityTaskDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/priority/SynchronousQueueTsak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/priority/SynchronousTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/concurrency/priority/SynchronousTaskTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/consumption/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/consumption/Dome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/consumption/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/consumption/TestDome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/executor/NewCachedThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/executor/ScheduledThreadPoolDome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/executor/Tests$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/executor/Tests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/exercise/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/exercise/AccountThreads.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/thread/exercise/SleepDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/javase/throwtest/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/message.objcet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/message2.objcet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
-    </list>
+    <list default="true" id="2378d79c-2391-4ed7-a8d5-d0360dcdd35e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,7 +58,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13026" />
+            <state relative-caret-position="-1" />
           </provider>
         </entry>
       </file>
@@ -575,14 +479,14 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011669" side_tool="true" visible="true" weight="0.32816538" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5011669" side_tool="true" visible="true" weight="0.32816538" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.20708154" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40697673" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49883315" weight="1.0" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.18086347" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.18086347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="4" sideWeight="0.5019763" side_tool="true" weight="0.25483426" />
@@ -1046,7 +950,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13026" />
+        <state relative-caret-position="-1" />
       </provider>
     </entry>
   </component>
